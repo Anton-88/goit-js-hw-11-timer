@@ -1,0 +1,23 @@
+
+body {
+    margin: auto;
+    padding: 0;
+    background: rgb(150, 221, 160);
+  }
+  .timer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+  }
+  .value {
+    color: rgb(231, 25, 25);
+    font-size: 88px;
+  }
+  .label {
+    font-size: 50px;
+    padding-left: 5px;
+    color: rgba(50, 50, 192, 0.719);
+  }
